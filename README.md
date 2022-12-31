@@ -1,5 +1,5 @@
 # Titulo de mi proyecto: Les Henrí 
-# Descripicion del proyecto: 
+Descripicion del proyecto: 
 Les Henrí es un ecommerce de pastelería inpiraspirado en un emprendimiento de una amiga nacido durante la pandemia.
 
 Comenzando 🚀 Si quiere obtener copia de este proyecto lo puedes clonar de mi repositorio o descargar un archivo zip.
