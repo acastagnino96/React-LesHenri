@@ -1,11 +1,16 @@
 import { BsCart2 } from 'react-icons/bs';
+import { useContext } from 'react';
+import { CartContext } from './CartContext';
+import { Link } from 'react-router-dom';
 
-function CartWidget() {
+const CartWidget = () => {
+    const ctx = useContext(CartContext);
+
     return (
-        <a href="#cart">
+        <Link to='/cart' style={{textDecoration: "none"}}>
             <BsCart2 />
-            <button className="btn">{"0"}</button>
-        </a>
+            <button className="btn">{ctx.calcItemsQty()}</button>
+            </Link>
     );
 }
 

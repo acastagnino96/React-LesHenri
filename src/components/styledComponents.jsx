@@ -120,9 +120,37 @@ const ProductAdd = styled.div`
     margin: 20px;
 `;
 
+//Item cart
+const ItemCart = styled.div`
+    flex: 1;
+    margin: 5px;
+    min-width: 280px;
+    max-width: 480px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f5fbfd;
+    position: relative;
+    & ${Info}{
+        opacity: 1;
+        background-color: rgba(0, 0, 0, 0);
+    }
+`;
+
+//Item Footer
+const Footers = styled.div`
+    width: 100%;
+    height: 80px;
+    background-color: #CA92CB;
+    position: relative;
+    bottom: 0px;
+    border-box: 0px;
+`;
+
 export { 
     ProductsContainer, ProductContainer,
     Circle, Image, Info, Icon,
     DetailContainer, WrapperDetail, ImgContainer, ImageDetail, InfoContainer, Title, Desc, Price,
-    ProductAmountContainer, ProductAmount, ProductAdd
+    ProductAmountContainer, ProductAmount, ProductAdd, ItemCart, Footers
 }
