@@ -7,7 +7,8 @@ Acceso al proyecto: https://github.com/acastagnino96/React-LesHenri.git
 
 Tecnologias utilizadas: REACT Vite
 
-Autor: Agustina Castagnino
+Autor: Agustina Castagnino.
+
 Personas contribuyentes: Alex Marin (profesor)
 
 Licencia: Es proyecto esta libre para ser utilizado y abierto a la criticas constructivas.
