@@ -1,2 +1,12 @@
-# React-js!
-[Preentrega2 - Castagnino](https://user-images.githubusercontent.com/109534721/206330279-89a39479-581b-42ad-947d-d8cb6e18be7b.gif)
+# Titulo de mi proyecto: Les Henrí 
+# Descripicion del proyecto: 
+Les Henrí es un ecommerce de pastelería inpiraspirado en un emprendimiento de una amiga nacido durante la pandemia.
+
+Comenzando 🚀 Si quiere obtener copia de este proyecto lo puedes clonar de mi repositorio o descargar un archivo zip.
+Acceso al proyecto: https://github.com/acastagnino96/React-LesHenri.git
+
+Tecnologias utilizadas: REACT Vite
+
+Personas contribuyentes: Alex Marin (profesor)
+
+Licencia: Es proyecto esta libre para ser utilizado y abierto a la criticas constructivas.
